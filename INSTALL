@@ -1,0 +1,9 @@
+Building Agroscoin
+
+See doc/readme-qt.rst for instructions on building Agroscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Agroscoin.
+
+See doc/build-*.txt for instructions on building agroscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Agroscoin.
